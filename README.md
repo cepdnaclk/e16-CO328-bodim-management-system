@@ -6,6 +6,6 @@
 
 ## Team Members
 
-Chandula J.P.D.M
-Aruna Nuwantha
-Isuru Lakshan
+- Chandula J.P.D.M
+- Aruna Nuwantha
+- Isuru Lakshan
